@@ -538,10 +538,6 @@ a
 }
 @media screen and (max-width: 64rem)
 {
-    .bct
-    {
-        max-height: 250px !important;
-    }
     .door
     {
         height: 20vh !important;
