@@ -240,7 +240,7 @@ a
 {
     display: flex;
     position: relative;
-    height: 42vh;
+    height: 35vh;
     max-height: 300px;
     min-height: 250px;
     cursor: url(img/cursor.png), auto;
